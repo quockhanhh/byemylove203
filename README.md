@@ -21,7 +21,7 @@
 
 
 |![nightowl][nightowl]
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemylove203&layout=compact&theme=nightowl&hide=html,jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byemylove203&count_private=true&layout=compact&theme=nightowl&hide=html,jupyter%20notebook&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
 |
 
 
@@ -30,4 +30,4 @@
 [blog]: http://vsCodeHero.com
 [twitter]: https://twitter.com/EssienJasper
 [linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
-[nightowl]: https://github-readme-stats.vercel.app/api?username=byemylove203&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
+[nightowl]: https://github-readme-stats.vercel.app/api?username=byemylove203&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
