@@ -27,5 +27,5 @@
 [article]: https://jasper-dev.hashnode.dev/drawing-bezier-curves-and-splines-with-custompaint-flutter
 [blog]: http://vsCodeHero.com
 [twitter]: https://twitter.com/EssienJasper
-[linkedin]: https://www.linkedin.com/in/jahswill-essien-9b0221168/
+
 [nightowl]: https://github-readme-stats.vercel.app/api?username=byemylove203&count_private=true&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nightowl
