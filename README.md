@@ -9,10 +9,10 @@
 
 ## I'm a Mobile Developer!!
 
-- 🌱 I’m currently learning elixir, while becoming more badass in flutter 
+
 - 👯 I’m looking to collaborate with other flutter developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read
+
 
 
 ## My Stats
