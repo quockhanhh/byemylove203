@@ -1,4 +1,4 @@
-### Hi there, I'm Quoc Khanh aka @byemylove203 👋 
+### Hi there, I'm Quoc Khanh 👋 
 
 
 [![LinkedIn](https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https%3A%2F%2Fjahswill-dev.web.app)](https://www.linkedin.com/in/quoc-khanh-0343a9259/)
