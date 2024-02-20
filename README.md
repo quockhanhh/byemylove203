@@ -7,11 +7,9 @@
 </a>&nbsp;&nbsp;
 
 
-## I'm a Mobile Developer!!
+## I'm a Developer!!
 
-
-- 👯 I’m looking to collaborate with other flutter developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 
 
